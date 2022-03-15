@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="humidity">"Humidade - "</string>
+    <string name="wind_speed">"Velocidade Vento - "</string>
+    <string name="max_temp">Máxima - </string>
+    <string name="min_temp">"Mínima - "</string>
+</resources>

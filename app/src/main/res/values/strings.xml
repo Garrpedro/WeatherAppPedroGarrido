@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherAppPedroGarrido</string>
+    <string name="humidity" />
+    <string name="wind_speed" />
+    <string name="max_temp" />
+    <string name="min_temp" />
+</resources>
